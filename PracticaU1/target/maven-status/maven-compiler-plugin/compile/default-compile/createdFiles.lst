@@ -1,0 +1,7 @@
+org\conection_db\PlantillaTxt.class
+org\conection_db\PlantillaExcel.class
+org\conection_db\App.class
+org\conection_db\ArchivoTXT.class
+org\conection_db\ArchivoXLSX.class
+org\conection_db\ConectarBD.class
+org\conection_db\CargaScript.class
